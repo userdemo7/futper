@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1, Gol Tv
+http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8
 #EXTINF:-1, Gol Peru 
 http://200.37.186.105:8000/play/a03e/index.m3u8
